@@ -1,0 +1,26 @@
+body {
+	font-family: "Open Sans", sans-serif;
+	margin: 0 auto;
+    width: 50%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+input {
+	font-size: 25px;
+	outline: none;
+	border-radius: 3px;
+	border-radius: 7px;
+	border: 2px solid #dddddd;
+	padding: 8px 20px;
+}
+
+button {
+	font-size: 25px;
+	outline: none;
+	border-radius: 7px;
+	border: 1px solid #dddddd;
+	padding: 9px 30px;
+	cursor: pointer;
+	color: #717070;
+}
